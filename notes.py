@@ -8,5 +8,7 @@ while counter < len(title):
     print(title[counter])
     counter = counter + 1
 
-# 
+#medium
+
+##find smallest
 
